@@ -1,4 +1,4 @@
-# All about CSS Journey
+# All about CSS
 
 ## CSS Guides List
 
