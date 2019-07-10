@@ -1,3 +1,7 @@
+- To Learn
+
+  - [Highlights](highlights.md)
+
 - Getting started
 
   - [Quick start](quickstart.md)
